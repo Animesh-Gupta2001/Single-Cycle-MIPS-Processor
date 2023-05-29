@@ -1,0 +1,29 @@
+Command line:
+   left_shifter26_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50068
+
+Fri Apr 07 16:44:24 2023
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5145.66 Meg
+
+ Total Signals          : 15
+ Total Nets             : 75
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 188
+Total Line Count : 17
+
+ Total Simulation Time: 0.015625 sec
+
+ Current Memory Usage: 5145.66 Meg
+
+Fri Apr 07 16:44:34 2023
+
